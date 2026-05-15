@@ -1,0 +1,2 @@
+# GeneratorAi-idea
+Gnerator idea
